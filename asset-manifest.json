@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fyrii-guide/static/css/main.e6c13ad2.css",
-    "main.js": "/fyrii-guide/static/js/main.33d0e7d4.js",
+    "main.js": "/fyrii-guide/static/js/main.077b72af.js",
     "static/js/453.5ea18dab.chunk.js": "/fyrii-guide/static/js/453.5ea18dab.chunk.js",
     "index.html": "/fyrii-guide/index.html",
     "main.e6c13ad2.css.map": "/fyrii-guide/static/css/main.e6c13ad2.css.map",
-    "main.33d0e7d4.js.map": "/fyrii-guide/static/js/main.33d0e7d4.js.map",
+    "main.077b72af.js.map": "/fyrii-guide/static/js/main.077b72af.js.map",
     "453.5ea18dab.chunk.js.map": "/fyrii-guide/static/js/453.5ea18dab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.33d0e7d4.js"
+    "static/js/main.077b72af.js"
   ]
 }
